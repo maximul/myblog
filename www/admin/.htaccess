@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile C:/denver/home/blog.ru/www/admin/.htpasswd
+Require valid-user
+AddDefaultCharset UTF-8
